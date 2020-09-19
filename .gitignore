@@ -5,3 +5,5 @@
 __pycache__/
 mnist.pkl
 .idea/
+Pipfile
+Pipfile.lock
